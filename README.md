@@ -52,6 +52,8 @@
   - 컴퓨터 전원
   - 전등
   - 블라인드
+
+
 ![image](https://user-images.githubusercontent.com/96164365/205485907-0b117447-1e67-42c7-ba05-1b017ddef05f.png)
 
 
