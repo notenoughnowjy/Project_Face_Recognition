@@ -65,13 +65,24 @@
   - 블라인드
 
 
+
 ![image](https://user-images.githubusercontent.com/96164365/205485907-0b117447-1e67-42c7-ba05-1b017ddef05f.png)
+
+
+
+- IOT스위치를 이용한 가전제품 제어
+  - 아두이노 클라우드 사용
+  - 모바일 앱으로 제어
+
+![image](https://user-images.githubusercontent.com/96164365/205488774-e0a3da41-47e9-4f8c-a6a1-013fe5c7d278.png)
 
 
 
 - 얼굴 인식을 통한 보안
   - 비밀번호, 키보다 높은 보안률
   - 침입 경보 및 IOT를 이용한 메시지
+
+
 
 ![image](https://user-images.githubusercontent.com/96164365/205486868-0c825aee-d878-4a5b-907b-8b972d8c791e.png)
 출처 : https://blog.naver.com/qschj8/222051976093
