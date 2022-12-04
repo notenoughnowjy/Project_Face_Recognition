@@ -37,8 +37,6 @@
   - 검흰의 네모(Haar feature)로 얼굴을 찾아내어 줌얼굴 검출은 OpenCV의 Haar Cascade Classifier알고리즘으로 이미지의 밝기차를 이용해 특징을 찾아냄
   - 특징에 따라 대상을 분류
 
----
-
 ![image](https://user-images.githubusercontent.com/96164365/205486237-5297f0b5-810d-4cb7-b528-be725b48b97d.png)
 
 ![image](https://user-images.githubusercontent.com/96164365/205485145-7aaf9b5b-0f89-4102-a3e6-c7d162ac24ef.png)
