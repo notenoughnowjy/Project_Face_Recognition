@@ -1,4 +1,6 @@
 # 딥러닝 얼굴 인식을 이용한 보안 및 개인화 시스템
+![image](https://user-images.githubusercontent.com/96164365/205704552-ed7e2de8-ed7b-4d4c-ba12-38d97b7fb487.png)
+
 
 ## 팀 이름 : Happiness with Shim
 
