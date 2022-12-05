@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/96164365/205704618-16522092-7310-4674-b19c-b2dcd108461d.png)
+![크리스마스](https://user-images.githubusercontent.com/96164365/205704787-1da3c53a-2246-422f-b835-a3299b4adf78.gif)
 
 # 딥러닝 얼굴 인식을 이용한 보안 및 개인화 시스템
 
