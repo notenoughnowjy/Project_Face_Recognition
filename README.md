@@ -1,7 +1,7 @@
 # 딥러닝 얼굴 인식을 이용한 보안 및 개인화 시스템
 
 
-## 팀 이름 : Happiness with Shim
+## 팀 이름 : ***MCWS*** (MerryChristmas With Shim)
 
 
 ## 개요
