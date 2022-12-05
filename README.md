@@ -30,6 +30,12 @@
 
 ---
 
+### 구현 환경
+- Image Detecting : Visual Studio code Python
+- Aduino : C/C++/Pycharm
+
+---
+
 ### 작품 구성 및 상세 내용
 
 - 딥 러닝을 통한 얼굴 인식
