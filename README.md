@@ -2,7 +2,8 @@
 
 
 ## 팀 이름 : ***MXWS*** (Merry X-mas With Shim)
-![image](https://user-images.githubusercontent.com/96164365/205705914-b69933a0-45aa-4f35-8541-71cd73516c09.png)
+![image](https://user-images.githubusercontent.com/96164365/205706235-4497c2ac-fc8e-44f5-bc85-6e295538ff54.png)
+
 
 
 ## 개요
