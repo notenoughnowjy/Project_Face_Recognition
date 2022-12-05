@@ -34,31 +34,33 @@
 ---
 
 ### 구현 환경
-- Image Detecting : Visual Studio code Python
-- Aduino : C/C++/Pycharm
+- Image Detecting : Pycharm
+- Aduino : C/C++
 
 ---
 
 ### 작품 구성 및 상세 내용
 
-- 딥 러닝을 통한 얼굴 인식
+- 딥 러닝을 통한 얼굴 인식 / Haar cascade 사용
+
+  - Haar Feature(하르 특징)을 계산 및 선택
+    - 하르의 세가지 특징
+      1.Edge Features : 두개의 사각형으로 구성된 하르 특징의 값은 두 사각 영역 내부에 있는 픽셀들의 합하여 검은색 영역의 합에서 흰색 영역의 합을 빼서 구한 것, 두 사각형의 크기와 모양은 동일
+      2.Line Feature : 세 개의 사각형으로 구성된 하르 특징은 중앙에 있는 검은색 사각 영역 내부의 픽셀 합에서 바깥에 있는 두 개의 흰색 사각 영역 내부의 픽셀 합을 뺀 것
+      3.Four-rectangle features : 4개의 사각형으로 구성된 하르 특징은 대각선에 위치한 영역간의 차이를 구한다
+
+  - Integral Images(적분 이미지) - 픽셀의 합 구하기
+![image](https://user-images.githubusercontent.com/96164365/205641458-0e982f2b-6267-473a-b9d7-aca5b9e0a71f.png)
+
   - Adaboost는 검은색과 흰색 부분 각각의 밝기 값을 픽셀 합을 구하는 방식으로 진행되는데, 적분 이미지(Integral Images)를 사용해 빠르게 구함
-  - 검흰의 네모(Haar feature)로 얼굴을 찾아내어 줌얼굴 검출은 OpenCV의 Haar Cascade Classifier알고리즘으로 이미지의 밝기차를 이용해 특징을 찾아냄
-  - 특징에 따라 대상을 분류
 
 ![image](https://user-images.githubusercontent.com/96164365/205486237-5297f0b5-810d-4cb7-b528-be725b48b97d.png)
 
-![image](https://user-images.githubusercontent.com/96164365/205485145-7aaf9b5b-0f89-4102-a3e6-c7d162ac24ef.png)
-
-![FaceImage](https://user-images.githubusercontent.com/96164365/205485126-87172dd6-607d-4cb9-b409-aa91e976bde5.gif)
-
 사진 출처 : https://justadudewhohacks.github.io/face-api.js/docs/index.html#live-demos
+ 
+ - 검흰의 네모(Haar feature)로 얼굴을 찾아내어 줌얼굴 검출은 OpenCV의 Haar Cascade Classifier알고리즘으로 이미지의 밝기차를 이용해 특징을 찾아냄
+  - 특징에 따라 대상을 분류
 
----
-
-### 해당 모델의 장점
-
-- Haar cascade : 신속하고 심플한 얼굴 검출
 
 
 ---
@@ -99,6 +101,13 @@
 ### 구현 결과
 
 - Youtube Link : 
+
+
+---
+
+### 참고
+https://webnautes.tistory.com/1352
+
 
 
 
