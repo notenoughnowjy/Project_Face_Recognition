@@ -52,11 +52,11 @@
   - Integral Images(적분 이미지) - 픽셀의 합 구하기
 ![image](https://user-images.githubusercontent.com/96164365/205641458-0e982f2b-6267-473a-b9d7-aca5b9e0a71f.png)
 
+
   - Adaboost는 검은색과 흰색 부분 각각의 밝기 값을 픽셀 합을 구하는 방식으로 진행되는데, 적분 이미지(Integral Images)를 사용해 빠르게 구함
-
 ![image](https://user-images.githubusercontent.com/96164365/205486237-5297f0b5-810d-4cb7-b528-be725b48b97d.png)
-
 사진 출처 : https://justadudewhohacks.github.io/face-api.js/docs/index.html#live-demos
+ 
  
  - 검흰의 네모(Haar feature)로 얼굴을 찾아내어 줌얼굴 검출은 OpenCV의 Haar Cascade Classifier알고리즘으로 이미지의 밝기차를 이용해 특징을 찾아냄
   - 특징에 따라 대상을 분류
