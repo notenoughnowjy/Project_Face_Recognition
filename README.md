@@ -39,7 +39,7 @@
 ---
 
 ### 구현 환경
-- **Image Detecting** : Pycharm
+- **Image Detecting** : Python
 - **Aduino** : C/C++
 
 ---
